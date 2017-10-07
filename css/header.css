@@ -1,0 +1,25 @@
+.flex
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: flex-start;
+	align-content: center;
+}
+.interaction
+{
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+	align-content: center;
+}
+.text
+{
+    margin-top: 15px;
+    text-decoration: none;
+    font-size: 25px;
+    color: blue;
+    font-family: Arial black, sans-serif;
+}

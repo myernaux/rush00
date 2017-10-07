@@ -1,0 +1,32 @@
+#up
+{
+	height: 60px;
+	background-color: #CEECF5;
+}
+
+#down
+{
+	height: 20px;
+	background-color: #84BDCE; 
+}
+
+#copy
+{
+	font-size: 10px;
+	color: #56686D;
+	font-style: italic;
+	text-align: center;
+	margin-bottom: 3px;
+}
+
+#croustibat
+{
+	margin-top: 10px;
+	margin-left: 480px;
+}
+
+#animal
+{
+	margin-top: 10px;
+	margin-left: 150px;
+}
